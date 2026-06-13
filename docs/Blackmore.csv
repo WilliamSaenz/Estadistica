@@ -1,5 +1,5 @@
-"","subject","age","exercise","group"  #encabezado dataframe
-"1","100",8,2.71,"patient"             #Datos: str, str,int, float, str
+"","subject","age","exercise","group" 
+"1","100",8,2.71,"patient"             
 "2","100",10,1.94,"patient"
 "3","100",12,2.36,"patient"
 "4","100",14,1.54,"patient"
